@@ -21,5 +21,5 @@ Welcome to mnBazaar, a modern shopping website redefining the online retail expe
 To embark on your shopping journey with mnBazaar, follow the simple steps below:
 
 ## Run the app
-- **'npm start' in your terminal
-- **Open [http://localhost:3000] to view it in your browser.
+-'npm start' in your terminal
+- Open [http://localhost:3000] to view it in your browser.
